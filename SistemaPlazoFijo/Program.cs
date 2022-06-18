@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<BaseDeDatos>(options =>
-    options.UseSqlite(@"filename=C:\Databases\PLAZO_FIJO.db")); //Aca especifican la ruta local donde crearon la BD
+    options.UseSqlServer(@"filename=C:\Databases\PLAZO_FIJO_V2.db")); //Aca especifican la ruta local donde crearon la BD
 
 var app = builder.Build();
 

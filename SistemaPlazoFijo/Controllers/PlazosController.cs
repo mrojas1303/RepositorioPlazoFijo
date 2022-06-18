@@ -68,7 +68,7 @@ namespace SistemaPlazoFijo.Controllers
                 _context.Add(plazo);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
-            }
+            
                 
             }
             return View(plazo);

@@ -15,110 +15,110 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Dell\Source\Repos\mrojas1303\SistemaPlazoFijo\SistemaPlazoFijo
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Bancos/Create.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Bancos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFuY29zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Bancos/Delete.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Bancos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFuY29zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Bancos/Details.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Bancos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFuY29zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Bancos/Edit.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Bancos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFuY29zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Bancos/Index.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Bancos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFuY29zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Clientes/Create.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Clientes/Delete.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Clientes/Details.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Clientes/Edit.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Clientes/Index.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Home/Index.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Home/Privacy.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Logins/Create.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Logins/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Logins/Delete.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Logins/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Logins/Details.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Logins/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Logins/Edit.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Logins/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Logins/Index.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Logins/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Plazos/Create.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Plazos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhem9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Plazos/Delete.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Plazos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhem9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Plazos/Details.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Plazos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhem9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Plazos/Edit.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Plazos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhem9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Plazos/Index.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Plazos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhem9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Shared/Error.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/_ViewImports.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/_ViewStart.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Source/Repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Shared/_Layout.cshtml]
+[C:/Users/Dell/source/repos/mrojas1303/SistemaPlazoFijo/SistemaPlazoFijo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ksfdtv2hjc
